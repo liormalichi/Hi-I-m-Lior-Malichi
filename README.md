@@ -1,11 +1,8 @@
 # Hi I'm Lior Malichi :relaxed:
 
 I'm  a second year student learning Electrical Engineering at Ben Gurion University :man_student:
-
 Due to Coronavirus I decided to take a year off university.
-
 My big unic project I'm working on right now is a python program which eventually will trade real money in the stock market.
-
 Meanwhile I'm having a lot of fun creating unity games, progarmas and projects in python.
 
 
