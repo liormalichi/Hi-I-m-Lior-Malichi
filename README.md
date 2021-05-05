@@ -9,6 +9,7 @@ My big unic project I'm working on right now is a python program which eventuall
 Meanwhile I'm having a lot of fun creating unity games, progarmas and projects in python.
 
 
+
 hobbies:
 
 -**basketball** :basketball:
@@ -16,6 +17,7 @@ hobbies:
 -**spray painting** [www.liormalichi.com](url)
 
 -**gym** or just lifting random heavy stuff :joy:
+
 
 
 Programming Languages: :love_you_gesture:
