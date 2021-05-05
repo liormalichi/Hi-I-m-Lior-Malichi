@@ -1,4 +1,3 @@
-![C#](https://user-images.githubusercontent.com/63522056/117113281-eb555280-ad92-11eb-83fa-e484b49adb9c.png)
 # Hi I'm Lior Malichi :relaxed:
 I'm  a second year student learning Electrical Engineering at Ben Gurion University who took a break from studying due to COVID-19 :man_student:
 Meanwhile I'm having fun creating unity games and progarmas in python
@@ -6,7 +5,9 @@ Meanwhile I'm having fun creating unity games and progarmas in python
 hobbies:
 
 -**basketball** 
+
 -**spray painting** www.liormalichi.com
+
 -**gym**
 
 Programming Languages :love_you_gesture:
