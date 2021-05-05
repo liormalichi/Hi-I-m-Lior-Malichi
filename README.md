@@ -7,13 +7,13 @@ Meanwhile I'm having a lot of fun creating unity games, progarmas and projects i
 
 
 
-hobbies:
+Hobbies:
 
--**basketball** :basketball:
+-**Basketball** :basketball:
 
--**spray painting** [www.liormalichi.com](url)
+-**Spray painting** [www.liormalichi.com](url)
 
--**gym** or just lifting random heavy stuff :joy:
+-**Gym** or just lifting random heavy stuff :joy:
 
 
 
