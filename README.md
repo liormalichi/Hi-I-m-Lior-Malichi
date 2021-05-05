@@ -1,16 +1,21 @@
 # Hi I'm Lior Malichi :relaxed:
-I'm  a second year student learning Electrical Engineering at Ben Gurion University who took a break from studying due to COVID-19 :man_student:
-Meanwhile I'm having fun creating unity games and progarmas in python
+
+I'm  a second year student learning Electrical Engineering at Ben Gurion University :man_student:
+Due to Coronavirus I decided to take a year off university.
+My big unic project I'm working on right now is a python program which eventually will trade real money in the stock market.
+Meanwhile I'm having a lot of fun creating unity games, progarmas and projects in python.
+
 
 hobbies:
 
--**basketball** 
+-**basketball** :basketball:
 
 -**spray painting** [www.liormalichi.com](url)
 
--**gym**
+-**gym** or just lifting random heavy stuff :joy:
 
-Programming Languages :love_you_gesture:
+
+Programming Languages: :love_you_gesture:
 
 
  ![java](https://user-images.githubusercontent.com/63522056/117112921-741fbe80-ad92-11eb-96ef-456f7eff791a.png)
