@@ -11,7 +11,7 @@ Hobbies:
 
 -**Basketball** :basketball:
 
--**Spray painting** [www.liormalichi.com](url)
+-**Spray painting** www.liormalichi.com.
 
 -**Gym** or just lifting random heavy stuff :joy:
 
