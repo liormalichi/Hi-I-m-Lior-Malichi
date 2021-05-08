@@ -17,7 +17,7 @@ Hobbies:
 
 
 
-Programming Languages: :love_you_gesture:
+Main programming Languages: :love_you_gesture:
 
 
  ![java](https://user-images.githubusercontent.com/63522056/117112921-741fbe80-ad92-11eb-96ef-456f7eff791a.png)
