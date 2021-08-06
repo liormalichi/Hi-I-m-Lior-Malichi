@@ -1,4 +1,3 @@
-![CSS](https://user-images.githubusercontent.com/63522056/128548054-98c75b1b-1480-45ce-a98c-f0ff17d4b217.png)
 # Hi I'm Lior Malichi :relaxed:
 
 I'm  a **second year student learning Electrical Engineering** at Ben Gurion University :man_student:
@@ -25,7 +24,7 @@ Pogramming Languages, IDEs and game engine (unity): :love_you_gesture:
 
 
  ![java](https://user-images.githubusercontent.com/63522056/117112921-741fbe80-ad92-11eb-96ef-456f7eff791a.png)
-![python](https://user-images.githubusercontent.com/63522056/117112947-7c77f980-ad92-11eb-9a0a-083c7ea9ab0e.png) 
+![הורדה](https://user-images.githubusercontent.com/63522056/128548205-d34b05bc-8636-453c-abdf-2aaca8d92bf3.jpg)
 ![C#jpg](https://user-images.githubusercontent.com/63522056/128547988-e48596d9-6bdd-4bd8-aa8a-d1f1584622e5.jpg)
     ![HTMLpng](https://user-images.githubusercontent.com/63522056/128544666-4f2a282e-45d9-4236-a9a5-e5f3325bd99a.png)
 ![CSS](https://user-images.githubusercontent.com/63522056/128548071-31ade4fc-5622-4c6b-b96d-841378db9616.png)
