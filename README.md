@@ -32,4 +32,4 @@ Pogramming Languages, IDEs and game engine (unity): :love_you_gesture:
 ![PYCHARM](https://user-images.githubusercontent.com/63522056/128544701-6e6d5ddb-8d4d-4eb8-a49c-93e6d50eb953.jpg)
 ![SPYDER](https://user-images.githubusercontent.com/63522056/128544702-b7aa0532-ae88-479f-b24f-129b916c8433.png)
 ![unity1](https://user-images.githubusercontent.com/63522056/128544707-1471a4a4-7024-4d52-94b2-a60e7ebbf970.png)
-![Visual_Studio_Code_1](https://user-images.githubusercontent.com/63522056/128544709-3bb6158a-52a4-4fbd-abf3-fe97478daf13.png)
+![vsc](https://user-images.githubusercontent.com/63522056/128547599-2eb2e342-5f13-4c96-8844-6c2df874da7b.png)
