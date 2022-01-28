@@ -2,7 +2,7 @@
 
 I'm a React developer who currently working at Branded in TLV.
 
-In my free time I'm having a lot of fun listing to songs in spanish having trips in our beautiful country and **creating unity games**, progarmas and projects in python.
+In my free time I'm having a lot of fun listing to songs in spanish, having trips in our beautiful country and **creating unity games**, progarmas and projects in python.
 
 
 
